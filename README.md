@@ -20,3 +20,17 @@ Database-Normalization-Project
 ├── normalization
 ├── ER diagram
 └── sql_queries
+
+## Features 
+- Dockerized MySQL setup for portability and reproducibility
+- Stepwise normalization of student club membership data (1NF → 3NF)
+- ER diagram representation of normalized tables
+- SQL queries including JOIN operations for relational data retrieval
+- Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
+
+## Setup Instructions
+'''
+docker --version
+'''
+
+
