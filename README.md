@@ -17,6 +17,6 @@ The purpose of this project is to understand how database normalization reduces 
 Database-Normalization-Project
 │
 ├── README.md
-├── normalization_explanation (pdf)
+├── normalization
 ├── ER diagram
 └── sql_queries
