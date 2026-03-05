@@ -28,32 +28,5 @@ Database-Normalization-Project
 - SQL queries including JOIN operations for relational data retrieval
 - Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
 
-## Setup Instructions 
-''' bash
-docker --version
-'''
-
-```bash
-docker images
-'''
-
-```bash
-docker pull mysql:8.0
-'''
-
- '''bash
-docker run --name mysql-container \
-  -e MYSQL_ROOT_PASSWORD=yourpassword \
-  -p 3306:3306 \
-  -v mysql_data:/var/lib/mysql \
-  -d mysql:8.0
-'''
-
-'''bash
-docker exec -it mysql-container mysql -u root -p
-'''
-
-here the password is root
-
 
 
