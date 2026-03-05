@@ -28,9 +28,8 @@ Database-Normalization-Project
 - SQL queries including JOIN operations for relational data retrieval
 - Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
 
-## Setup Instructions
-'''
+## Setup Instructions 
+```bash
 docker --version
-'''
 
 
