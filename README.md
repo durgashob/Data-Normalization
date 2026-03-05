@@ -28,8 +28,10 @@ Database-Normalization-Project
 - SQL queries including JOIN operations for relational data retrieval
 - Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
 
+## Setup
+```docker```
+```docker images```
+it checks the MySQL
+```docker pull mysql:8.0```
 
-''' docker --version docker images '''
-
-''' docker pull mysql:8.0 '''
 
