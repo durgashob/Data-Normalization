@@ -13,3 +13,10 @@ This project demonstrates the normalization process of a student club membership
 ## Purpose
 
 The purpose of this project is to understand how database normalization reduces redundancy, improves data accuracy, and organizes data efficiently.
+
+Database-Normalization-Project
+│
+├── README.md
+├── normalization_explanation (pdf)
+├── ER diagram
+└── sql_queries
