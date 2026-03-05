@@ -29,14 +29,17 @@ Database-Normalization-Project
 - Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
 
 ## Setup Instructions 
-```bash
+''' bash
 docker --version
+'''
 
 ```bash
 docker images
+'''
 
 ```bash
 docker pull mysql:8.0
+'''
 
  '''bash
 docker run --name mysql-container \
@@ -44,9 +47,11 @@ docker run --name mysql-container \
   -p 3306:3306 \
   -v mysql_data:/var/lib/mysql \
   -d mysql:8.0
+'''
 
 '''bash
 docker exec -it mysql-container mysql -u root -p
+'''
 
 here the password is root
 
