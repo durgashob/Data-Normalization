@@ -29,4 +29,7 @@ Database-Normalization-Project
 - Practical demonstration of solving redundancy, update, insertion, and deletion anomalies
 
 
+''' docker --version docker images '''
+
+''' docker pull mysql:8.0 '''
 
